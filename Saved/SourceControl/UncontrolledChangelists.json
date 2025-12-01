@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/194359/OneDrive/Unreal Projects/HexKitchen/Content/Levels/BossArenaAmalgamation.umap",
+				"C:/Users/194359/OneDrive/Unreal Projects/HexKitchen/Content/Levels/AmalgamationBossArena.umap",
+				"C:/Users/194359/OneDrive/Unreal Projects/HexKitchen/Content/Enemies/BP_amalgamation.uasset",
+				"C:/Users/194359/OneDrive/Unreal Projects/HexKitchen/Content/Enemies/Amalgamation_Data/BP_amalgamation.uasset",
+				"C:/Users/194359/OneDrive/Unreal Projects/HexKitchen/Content/Enemies/Amalgamation_Data/BP_hot_potato.uasset",
+				"C:/Users/194359/OneDrive/Unreal Projects/HexKitchen/Content/Enemies/Amalgamation_Data/Onion_Projectile.uasset",
+				"C:/Users/194359/OneDrive/Unreal Projects/HexKitchen/Content/Enemies/BP_meat.uasset",
 				"D:/MyProject/Content/Blueprints/BPC_Health.uasset",
 				"D:/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/MyProject/Content/Blueprints/W_DeathMenu.uasset",
